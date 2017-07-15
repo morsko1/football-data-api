@@ -1,0 +1,74 @@
+[
+  {
+    "id": 0,
+    "name": "Augsburg"
+  },
+  {
+    "id": 1,
+    "name": "Bayern Munich"
+  },
+  {
+    "id": 2,
+    "name": "Darmstadt"
+  },
+  {
+    "id": 3,
+    "name": "Dortmund"
+  },
+  {
+    "id": 4,
+    "name": "Ein Frankfurt"
+  },
+  {
+    "id": 5,
+    "name": "FC Koln"
+  },
+  {
+    "id": 6,
+    "name": "Freiburg"
+  },
+  {
+    "id": 7,
+    "name": "Hamburg"
+  },
+  {
+    "id": 8,
+    "name": "Hertha"
+  },
+  {
+    "id": 9,
+    "name": "Hoffenheim"
+  },
+  {
+    "id": 10,
+    "name": "Ingolstadt"
+  },
+  {
+    "id": 11,
+    "name": "Leverkusen"
+  },
+  {
+    "id": 12,
+    "name": "M'gladbach"
+  },
+  {
+    "id": 13,
+    "name": "Mainz"
+  },
+  {
+    "id": 14,
+    "name": "RB Leipzig"
+  },
+  {
+    "id": 15,
+    "name": "Schalke 04"
+  },
+  {
+    "id": 16,
+    "name": "Werder Bremen"
+  },
+  {
+    "id": 17,
+    "name": "Wolfsburg"
+  }
+]

@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "name": "Ath Bilbao"
+  },
+  {
+    "id": 1,
+    "name": "Ath Madrid"
+  },
+  {
+    "id": 2,
+    "name": "Barcelona"
+  },
+  {
+    "id": 3,
+    "name": "Betis"
+  },
+  {
+    "id": 4,
+    "name": "Celta"
+  },
+  {
+    "id": 5,
+    "name": "Eibar"
+  },
+  {
+    "id": 6,
+    "name": "Espanol"
+  },
+  {
+    "id": 7,
+    "name": "Getafe"
+  },
+  {
+    "id": 8,
+    "name": "Granada"
+  },
+  {
+    "id": 9,
+    "name": "La Coruna"
+  },
+  {
+    "id": 10,
+    "name": "Las Palmas"
+  },
+  {
+    "id": 11,
+    "name": "Levante"
+  },
+  {
+    "id": 12,
+    "name": "Malaga"
+  },
+  {
+    "id": 13,
+    "name": "Real Madrid"
+  },
+  {
+    "id": 14,
+    "name": "Sevilla"
+  },
+  {
+    "id": 15,
+    "name": "Sociedad"
+  },
+  {
+    "id": 16,
+    "name": "Sp Gijon"
+  },
+  {
+    "id": 17,
+    "name": "Valencia"
+  },
+  {
+    "id": 18,
+    "name": "Vallecano"
+  },
+  {
+    "id": 19,
+    "name": "Villarreal"
+  }
+]
