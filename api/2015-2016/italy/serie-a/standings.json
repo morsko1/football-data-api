@@ -8,6 +8,8 @@
     "draws": 4,
     "goalsHome": 37,
     "goalsAway": 38,
+    "goalsHomeAllowed": 6,
+    "goalsAwayAllowed": 14,
     "pointsHome": 50,
     "pointsAway": 41,
     "winsHome": 16,
@@ -17,6 +19,7 @@
     "lossesAway": 4,
     "drawsAway": 2,
     "goalsTotal": 75,
+    "goalsTotalAllowed": 20,
     "pointsTotal": 91
   },
   {
@@ -28,6 +31,8 @@
     "draws": 7,
     "goalsHome": 49,
     "goalsAway": 31,
+    "goalsHomeAllowed": 12,
+    "goalsAwayAllowed": 20,
     "pointsHome": 51,
     "pointsAway": 31,
     "winsHome": 16,
@@ -37,6 +42,7 @@
     "lossesAway": 6,
     "drawsAway": 4,
     "goalsTotal": 80,
+    "goalsTotalAllowed": 32,
     "pointsTotal": 82
   },
   {
@@ -48,6 +54,8 @@
     "draws": 11,
     "goalsHome": 44,
     "goalsAway": 39,
+    "goalsHomeAllowed": 17,
+    "goalsAwayAllowed": 24,
     "pointsHome": 44,
     "pointsAway": 36,
     "winsHome": 13,
@@ -57,6 +65,7 @@
     "lossesAway": 3,
     "drawsAway": 6,
     "goalsTotal": 83,
+    "goalsTotalAllowed": 41,
     "pointsTotal": 80
   },
   {
@@ -68,6 +77,8 @@
     "draws": 7,
     "goalsHome": 29,
     "goalsAway": 21,
+    "goalsHomeAllowed": 15,
+    "goalsAwayAllowed": 23,
     "pointsHome": 41,
     "pointsAway": 26,
     "winsHome": 13,
@@ -77,6 +88,7 @@
     "lossesAway": 7,
     "drawsAway": 5,
     "goalsTotal": 50,
+    "goalsTotalAllowed": 38,
     "pointsTotal": 67
   },
   {
@@ -88,6 +100,8 @@
     "draws": 10,
     "goalsHome": 34,
     "goalsAway": 26,
+    "goalsHomeAllowed": 16,
+    "goalsAwayAllowed": 26,
     "pointsHome": 38,
     "pointsAway": 26,
     "winsHome": 11,
@@ -97,6 +111,7 @@
     "lossesAway": 7,
     "drawsAway": 5,
     "goalsTotal": 60,
+    "goalsTotalAllowed": 42,
     "pointsTotal": 64
   },
   {
@@ -108,6 +123,8 @@
     "draws": 13,
     "goalsHome": 25,
     "goalsAway": 24,
+    "goalsHomeAllowed": 20,
+    "goalsAwayAllowed": 20,
     "pointsHome": 32,
     "pointsAway": 29,
     "winsHome": 8,
@@ -117,6 +134,7 @@
     "lossesAway": 6,
     "drawsAway": 5,
     "goalsTotal": 49,
+    "goalsTotalAllowed": 40,
     "pointsTotal": 61
   },
   {
@@ -128,6 +146,8 @@
     "draws": 12,
     "goalsHome": 28,
     "goalsAway": 21,
+    "goalsHomeAllowed": 22,
+    "goalsAwayAllowed": 21,
     "pointsHome": 33,
     "pointsAway": 24,
     "winsHome": 9,
@@ -137,6 +157,7 @@
     "lossesAway": 7,
     "drawsAway": 6,
     "goalsTotal": 49,
+    "goalsTotalAllowed": 43,
     "pointsTotal": 57
   },
   {
@@ -148,6 +169,8 @@
     "draws": 9,
     "goalsHome": 32,
     "goalsAway": 20,
+    "goalsHomeAllowed": 23,
+    "goalsAwayAllowed": 29,
     "pointsHome": 33,
     "pointsAway": 21,
     "winsHome": 10,
@@ -157,6 +180,7 @@
     "lossesAway": 8,
     "drawsAway": 6,
     "goalsTotal": 52,
+    "goalsTotalAllowed": 52,
     "pointsTotal": 54
   },
   {
@@ -168,6 +192,8 @@
     "draws": 11,
     "goalsHome": 25,
     "goalsAway": 18,
+    "goalsHomeAllowed": 18,
+    "goalsAwayAllowed": 27,
     "pointsHome": 29,
     "pointsAway": 21,
     "winsHome": 7,
@@ -177,6 +203,7 @@
     "lossesAway": 10,
     "drawsAway": 3,
     "goalsTotal": 43,
+    "goalsTotalAllowed": 45,
     "pointsTotal": 50
   },
   {
@@ -188,6 +215,8 @@
     "draws": 10,
     "goalsHome": 22,
     "goalsAway": 18,
+    "goalsHomeAllowed": 20,
+    "goalsAwayAllowed": 29,
     "pointsHome": 27,
     "pointsAway": 19,
     "winsHome": 7,
@@ -197,6 +226,7 @@
     "lossesAway": 10,
     "drawsAway": 4,
     "goalsTotal": 40,
+    "goalsTotalAllowed": 49,
     "pointsTotal": 46
   },
   {
@@ -208,6 +238,8 @@
     "draws": 7,
     "goalsHome": 29,
     "goalsAway": 16,
+    "goalsHomeAllowed": 19,
+    "goalsAwayAllowed": 29,
     "pointsHome": 33,
     "pointsAway": 13,
     "winsHome": 10,
@@ -217,6 +249,7 @@
     "lossesAway": 12,
     "drawsAway": 4,
     "goalsTotal": 45,
+    "goalsTotalAllowed": 48,
     "pointsTotal": 46
   },
   {
@@ -228,6 +261,8 @@
     "draws": 12,
     "goalsHome": 27,
     "goalsAway": 14,
+    "goalsHomeAllowed": 21,
+    "goalsAwayAllowed": 26,
     "pointsHome": 30,
     "pointsAway": 15,
     "winsHome": 8,
@@ -237,6 +272,7 @@
     "lossesAway": 10,
     "drawsAway": 6,
     "goalsTotal": 41,
+    "goalsTotalAllowed": 47,
     "pointsTotal": 45
   },
   {
@@ -248,6 +284,8 @@
     "draws": 9,
     "goalsHome": 25,
     "goalsAway": 27,
+    "goalsHomeAllowed": 25,
+    "goalsAwayAllowed": 30,
     "pointsHome": 24,
     "pointsAway": 21,
     "winsHome": 6,
@@ -257,6 +295,7 @@
     "lossesAway": 10,
     "drawsAway": 3,
     "goalsTotal": 52,
+    "goalsTotalAllowed": 55,
     "pointsTotal": 45
   },
   {
@@ -268,6 +307,8 @@
     "draws": 9,
     "goalsHome": 20,
     "goalsAway": 13,
+    "goalsHomeAllowed": 21,
+    "goalsAwayAllowed": 24,
     "pointsHome": 20,
     "pointsAway": 22,
     "winsHome": 5,
@@ -277,6 +318,7 @@
     "lossesAway": 9,
     "drawsAway": 4,
     "goalsTotal": 33,
+    "goalsTotalAllowed": 45,
     "pointsTotal": 42
   },
   {
@@ -288,6 +330,8 @@
     "draws": 10,
     "goalsHome": 29,
     "goalsAway": 19,
+    "goalsHomeAllowed": 25,
+    "goalsAwayAllowed": 36,
     "pointsHome": 28,
     "pointsAway": 12,
     "winsHome": 8,
@@ -297,6 +341,7 @@
     "lossesAway": 11,
     "drawsAway": 6,
     "goalsTotal": 48,
+    "goalsTotalAllowed": 61,
     "pointsTotal": 40
   },
   {
@@ -308,6 +353,8 @@
     "draws": 9,
     "goalsHome": 24,
     "goalsAway": 14,
+    "goalsHomeAllowed": 30,
+    "goalsAwayAllowed": 35,
     "pointsHome": 22,
     "pointsAway": 17,
     "winsHome": 6,
@@ -317,6 +364,7 @@
     "lossesAway": 10,
     "drawsAway": 5,
     "goalsTotal": 38,
+    "goalsTotalAllowed": 65,
     "pointsTotal": 39
   },
   {
@@ -328,6 +376,8 @@
     "draws": 9,
     "goalsHome": 18,
     "goalsAway": 17,
+    "goalsHomeAllowed": 28,
+    "goalsAwayAllowed": 32,
     "pointsHome": 22,
     "pointsAway": 17,
     "winsHome": 6,
@@ -337,6 +387,7 @@
     "lossesAway": 10,
     "drawsAway": 5,
     "goalsTotal": 35,
+    "goalsTotalAllowed": 60,
     "pointsTotal": 39
   },
   {
@@ -348,6 +399,8 @@
     "draws": 11,
     "goalsHome": 23,
     "goalsAway": 14,
+    "goalsHomeAllowed": 26,
+    "goalsAwayAllowed": 31,
     "pointsHome": 23,
     "pointsAway": 15,
     "winsHome": 6,
@@ -357,6 +410,7 @@
     "lossesAway": 10,
     "drawsAway": 6,
     "goalsTotal": 37,
+    "goalsTotalAllowed": 57,
     "pointsTotal": 38
   },
   {
@@ -368,6 +422,8 @@
     "draws": 7,
     "goalsHome": 18,
     "goalsAway": 17,
+    "goalsHomeAllowed": 26,
+    "goalsAwayAllowed": 50,
     "pointsHome": 22,
     "pointsAway": 9,
     "winsHome": 6,
@@ -377,6 +433,7 @@
     "lossesAway": 14,
     "drawsAway": 3,
     "goalsTotal": 35,
+    "goalsTotalAllowed": 76,
     "pointsTotal": 31
   },
   {
@@ -388,6 +445,8 @@
     "draws": 13,
     "goalsHome": 21,
     "goalsAway": 13,
+    "goalsHomeAllowed": 30,
+    "goalsAwayAllowed": 33,
     "pointsHome": 18,
     "pointsAway": 10,
     "winsHome": 4,
@@ -397,6 +456,7 @@
     "lossesAway": 11,
     "drawsAway": 7,
     "goalsTotal": 34,
+    "goalsTotalAllowed": 63,
     "pointsTotal": 28
   }
 ]
