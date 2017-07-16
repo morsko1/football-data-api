@@ -1,0 +1,32 @@
+[
+  {
+    "id": 0,
+    "name": "Germany Bundesliga",
+    "league": "germany/bundes-liga/",
+    "season": "2015-2016"
+  },
+  {
+    "id": 1,
+    "name": "England Premier League",
+    "league": "england/premier-league/",
+    "season": "2015-2016"
+  },
+  {
+    "id": 2,
+    "name": "France League One",
+    "league": "france/league-one/",
+    "season": "2015-2016"
+  },
+  {
+    "id": 3,
+    "name": "Italy Serie A",
+    "league": "italy/serie-a/",
+    "season": "2015-2016"
+  },
+  {
+    "id": 4,
+    "name": "Spain Primera",
+    "league": "spain/primera/",
+    "season": "2015-2016"
+  }
+]
