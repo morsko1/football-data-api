@@ -1,82 +1,87 @@
-[
-  {
-    "id": 0,
-    "name": "Ajaccio GFCO"
-  },
-  {
-    "id": 1,
-    "name": "Angers"
-  },
-  {
-    "id": 2,
-    "name": "Bastia"
-  },
-  {
-    "id": 3,
-    "name": "Bordeaux"
-  },
-  {
-    "id": 4,
-    "name": "Caen"
-  },
-  {
-    "id": 5,
-    "name": "Guingamp"
-  },
-  {
-    "id": 6,
-    "name": "Lille"
-  },
-  {
-    "id": 7,
-    "name": "Lorient"
-  },
-  {
-    "id": 8,
-    "name": "Lyon"
-  },
-  {
-    "id": 9,
-    "name": "Marseille"
-  },
-  {
-    "id": 10,
-    "name": "Monaco"
-  },
-  {
-    "id": 11,
-    "name": "Montpellier"
-  },
-  {
-    "id": 12,
-    "name": "Nantes"
-  },
-  {
-    "id": 13,
-    "name": "Nice"
-  },
-  {
-    "id": 14,
-    "name": "Paris SG"
-  },
-  {
-    "id": 15,
-    "name": "Reims"
-  },
-  {
-    "id": 16,
-    "name": "Rennes"
-  },
-  {
-    "id": 17,
-    "name": "St Etienne"
-  },
-  {
-    "id": 18,
-    "name": "Toulouse"
-  },
-  {
-    "id": 19,
-    "name": "Troyes"
-  }
-]
+{
+  "id": 2,
+  "name": "France League One",
+  "league": "france/league-one/",
+  "teams": [
+    {
+      "id": 0,
+      "name": "Ajaccio GFCO"
+    },
+    {
+      "id": 1,
+      "name": "Angers"
+    },
+    {
+      "id": 2,
+      "name": "Bastia"
+    },
+    {
+      "id": 3,
+      "name": "Bordeaux"
+    },
+    {
+      "id": 4,
+      "name": "Caen"
+    },
+    {
+      "id": 5,
+      "name": "Guingamp"
+    },
+    {
+      "id": 6,
+      "name": "Lille"
+    },
+    {
+      "id": 7,
+      "name": "Lorient"
+    },
+    {
+      "id": 8,
+      "name": "Lyon"
+    },
+    {
+      "id": 9,
+      "name": "Marseille"
+    },
+    {
+      "id": 10,
+      "name": "Monaco"
+    },
+    {
+      "id": 11,
+      "name": "Montpellier"
+    },
+    {
+      "id": 12,
+      "name": "Nantes"
+    },
+    {
+      "id": 13,
+      "name": "Nice"
+    },
+    {
+      "id": 14,
+      "name": "Paris SG"
+    },
+    {
+      "id": 15,
+      "name": "Reims"
+    },
+    {
+      "id": 16,
+      "name": "Rennes"
+    },
+    {
+      "id": 17,
+      "name": "St Etienne"
+    },
+    {
+      "id": 18,
+      "name": "Toulouse"
+    },
+    {
+      "id": 19,
+      "name": "Troyes"
+    }
+  ]
+}

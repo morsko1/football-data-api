@@ -1,82 +1,87 @@
-[
-  {
-    "id": 0,
-    "name": "Arsenal"
-  },
-  {
-    "id": 1,
-    "name": "Bournemouth"
-  },
-  {
-    "id": 2,
-    "name": "Burnley"
-  },
-  {
-    "id": 3,
-    "name": "Chelsea"
-  },
-  {
-    "id": 4,
-    "name": "Crystal Palace"
-  },
-  {
-    "id": 5,
-    "name": "Everton"
-  },
-  {
-    "id": 6,
-    "name": "Hull"
-  },
-  {
-    "id": 7,
-    "name": "Leicester"
-  },
-  {
-    "id": 8,
-    "name": "Liverpool"
-  },
-  {
-    "id": 9,
-    "name": "Man City"
-  },
-  {
-    "id": 10,
-    "name": "Man United"
-  },
-  {
-    "id": 11,
-    "name": "Middlesbrough"
-  },
-  {
-    "id": 12,
-    "name": "Southampton"
-  },
-  {
-    "id": 13,
-    "name": "Stoke"
-  },
-  {
-    "id": 14,
-    "name": "Sunderland"
-  },
-  {
-    "id": 15,
-    "name": "Swansea"
-  },
-  {
-    "id": 16,
-    "name": "Tottenham"
-  },
-  {
-    "id": 17,
-    "name": "Watford"
-  },
-  {
-    "id": 18,
-    "name": "West Brom"
-  },
-  {
-    "id": 19,
-    "name": "West Ham"
-  }
-]
+{
+  "id": 1,
+  "name": "England Premier League",
+  "league": "england/premier-league/",
+  "teams": [
+    {
+      "id": 0,
+      "name": "Arsenal"
+    },
+    {
+      "id": 1,
+      "name": "Bournemouth"
+    },
+    {
+      "id": 2,
+      "name": "Burnley"
+    },
+    {
+      "id": 3,
+      "name": "Chelsea"
+    },
+    {
+      "id": 4,
+      "name": "Crystal Palace"
+    },
+    {
+      "id": 5,
+      "name": "Everton"
+    },
+    {
+      "id": 6,
+      "name": "Hull"
+    },
+    {
+      "id": 7,
+      "name": "Leicester"
+    },
+    {
+      "id": 8,
+      "name": "Liverpool"
+    },
+    {
+      "id": 9,
+      "name": "Man City"
+    },
+    {
+      "id": 10,
+      "name": "Man United"
+    },
+    {
+      "id": 11,
+      "name": "Middlesbrough"
+    },
+    {
+      "id": 12,
+      "name": "Southampton"
+    },
+    {
+      "id": 13,
+      "name": "Stoke"
+    },
+    {
+      "id": 14,
+      "name": "Sunderland"
+    },
+    {
+      "id": 15,
+      "name": "Swansea"
+    },
+    {
+      "id": 16,
+      "name": "Tottenham"
+    },
+    {
+      "id": 17,
+      "name": "Watford"
+    },
+    {
+      "id": 18,
+      "name": "West Brom"
+    },
+    {
+      "id": 19,
+      "name": "West Ham"
+    }
+  ]
+}

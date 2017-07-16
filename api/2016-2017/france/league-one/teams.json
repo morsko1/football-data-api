@@ -1,82 +1,87 @@
-[
-  {
-    "id": 0,
-    "name": "Angers"
-  },
-  {
-    "id": 1,
-    "name": "Bastia"
-  },
-  {
-    "id": 2,
-    "name": "Bordeaux"
-  },
-  {
-    "id": 3,
-    "name": "Caen"
-  },
-  {
-    "id": 4,
-    "name": "Dijon"
-  },
-  {
-    "id": 5,
-    "name": "Guingamp"
-  },
-  {
-    "id": 6,
-    "name": "Lille"
-  },
-  {
-    "id": 7,
-    "name": "Lorient"
-  },
-  {
-    "id": 8,
-    "name": "Lyon"
-  },
-  {
-    "id": 9,
-    "name": "Marseille"
-  },
-  {
-    "id": 10,
-    "name": "Metz"
-  },
-  {
-    "id": 11,
-    "name": "Monaco"
-  },
-  {
-    "id": 12,
-    "name": "Montpellier"
-  },
-  {
-    "id": 13,
-    "name": "Nancy"
-  },
-  {
-    "id": 14,
-    "name": "Nantes"
-  },
-  {
-    "id": 15,
-    "name": "Nice"
-  },
-  {
-    "id": 16,
-    "name": "Paris SG"
-  },
-  {
-    "id": 17,
-    "name": "Rennes"
-  },
-  {
-    "id": 18,
-    "name": "St Etienne"
-  },
-  {
-    "id": 19,
-    "name": "Toulouse"
-  }
-]
+{
+  "id": 2,
+  "name": "France League One",
+  "league": "france/league-one/",
+  "teams": [
+    {
+      "id": 0,
+      "name": "Angers"
+    },
+    {
+      "id": 1,
+      "name": "Bastia"
+    },
+    {
+      "id": 2,
+      "name": "Bordeaux"
+    },
+    {
+      "id": 3,
+      "name": "Caen"
+    },
+    {
+      "id": 4,
+      "name": "Dijon"
+    },
+    {
+      "id": 5,
+      "name": "Guingamp"
+    },
+    {
+      "id": 6,
+      "name": "Lille"
+    },
+    {
+      "id": 7,
+      "name": "Lorient"
+    },
+    {
+      "id": 8,
+      "name": "Lyon"
+    },
+    {
+      "id": 9,
+      "name": "Marseille"
+    },
+    {
+      "id": 10,
+      "name": "Metz"
+    },
+    {
+      "id": 11,
+      "name": "Monaco"
+    },
+    {
+      "id": 12,
+      "name": "Montpellier"
+    },
+    {
+      "id": 13,
+      "name": "Nancy"
+    },
+    {
+      "id": 14,
+      "name": "Nantes"
+    },
+    {
+      "id": 15,
+      "name": "Nice"
+    },
+    {
+      "id": 16,
+      "name": "Paris SG"
+    },
+    {
+      "id": 17,
+      "name": "Rennes"
+    },
+    {
+      "id": 18,
+      "name": "St Etienne"
+    },
+    {
+      "id": 19,
+      "name": "Toulouse"
+    }
+  ]
+}

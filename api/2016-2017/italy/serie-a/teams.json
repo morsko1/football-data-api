@@ -1,82 +1,87 @@
-[
-  {
-    "id": 0,
-    "name": "Atalanta"
-  },
-  {
-    "id": 1,
-    "name": "Bologna"
-  },
-  {
-    "id": 2,
-    "name": "Cagliari"
-  },
-  {
-    "id": 3,
-    "name": "Chievo"
-  },
-  {
-    "id": 4,
-    "name": "Crotone"
-  },
-  {
-    "id": 5,
-    "name": "Empoli"
-  },
-  {
-    "id": 6,
-    "name": "Fiorentina"
-  },
-  {
-    "id": 7,
-    "name": "Genoa"
-  },
-  {
-    "id": 8,
-    "name": "Inter"
-  },
-  {
-    "id": 9,
-    "name": "Juventus"
-  },
-  {
-    "id": 10,
-    "name": "Lazio"
-  },
-  {
-    "id": 11,
-    "name": "Milan"
-  },
-  {
-    "id": 12,
-    "name": "Napoli"
-  },
-  {
-    "id": 13,
-    "name": "Palermo"
-  },
-  {
-    "id": 14,
-    "name": "Pescara"
-  },
-  {
-    "id": 15,
-    "name": "Roma"
-  },
-  {
-    "id": 16,
-    "name": "Sampdoria"
-  },
-  {
-    "id": 17,
-    "name": "Sassuolo"
-  },
-  {
-    "id": 18,
-    "name": "Torino"
-  },
-  {
-    "id": 19,
-    "name": "Udinese"
-  }
-]
+{
+  "id": 3,
+  "name": "Italy Serie A",
+  "league": "italy/serie-a/",
+  "teams": [
+    {
+      "id": 0,
+      "name": "Atalanta"
+    },
+    {
+      "id": 1,
+      "name": "Bologna"
+    },
+    {
+      "id": 2,
+      "name": "Cagliari"
+    },
+    {
+      "id": 3,
+      "name": "Chievo"
+    },
+    {
+      "id": 4,
+      "name": "Crotone"
+    },
+    {
+      "id": 5,
+      "name": "Empoli"
+    },
+    {
+      "id": 6,
+      "name": "Fiorentina"
+    },
+    {
+      "id": 7,
+      "name": "Genoa"
+    },
+    {
+      "id": 8,
+      "name": "Inter"
+    },
+    {
+      "id": 9,
+      "name": "Juventus"
+    },
+    {
+      "id": 10,
+      "name": "Lazio"
+    },
+    {
+      "id": 11,
+      "name": "Milan"
+    },
+    {
+      "id": 12,
+      "name": "Napoli"
+    },
+    {
+      "id": 13,
+      "name": "Palermo"
+    },
+    {
+      "id": 14,
+      "name": "Pescara"
+    },
+    {
+      "id": 15,
+      "name": "Roma"
+    },
+    {
+      "id": 16,
+      "name": "Sampdoria"
+    },
+    {
+      "id": 17,
+      "name": "Sassuolo"
+    },
+    {
+      "id": 18,
+      "name": "Torino"
+    },
+    {
+      "id": 19,
+      "name": "Udinese"
+    }
+  ]
+}

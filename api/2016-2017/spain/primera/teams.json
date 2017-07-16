@@ -1,82 +1,87 @@
-[
-  {
-    "id": 0,
-    "name": "Alaves"
-  },
-  {
-    "id": 1,
-    "name": "Ath Bilbao"
-  },
-  {
-    "id": 2,
-    "name": "Ath Madrid"
-  },
-  {
-    "id": 3,
-    "name": "Barcelona"
-  },
-  {
-    "id": 4,
-    "name": "Betis"
-  },
-  {
-    "id": 5,
-    "name": "Celta"
-  },
-  {
-    "id": 6,
-    "name": "Eibar"
-  },
-  {
-    "id": 7,
-    "name": "Espanol"
-  },
-  {
-    "id": 8,
-    "name": "Granada"
-  },
-  {
-    "id": 9,
-    "name": "La Coruna"
-  },
-  {
-    "id": 10,
-    "name": "Las Palmas"
-  },
-  {
-    "id": 11,
-    "name": "Leganes"
-  },
-  {
-    "id": 12,
-    "name": "Malaga"
-  },
-  {
-    "id": 13,
-    "name": "Osasuna"
-  },
-  {
-    "id": 14,
-    "name": "Real Madrid"
-  },
-  {
-    "id": 15,
-    "name": "Sevilla"
-  },
-  {
-    "id": 16,
-    "name": "Sociedad"
-  },
-  {
-    "id": 17,
-    "name": "Sp Gijon"
-  },
-  {
-    "id": 18,
-    "name": "Valencia"
-  },
-  {
-    "id": 19,
-    "name": "Villarreal"
-  }
-]
+{
+  "id": 4,
+  "name": "Spain Primera",
+  "league": "spain/primera/",
+  "teams": [
+    {
+      "id": 0,
+      "name": "Alaves"
+    },
+    {
+      "id": 1,
+      "name": "Ath Bilbao"
+    },
+    {
+      "id": 2,
+      "name": "Ath Madrid"
+    },
+    {
+      "id": 3,
+      "name": "Barcelona"
+    },
+    {
+      "id": 4,
+      "name": "Betis"
+    },
+    {
+      "id": 5,
+      "name": "Celta"
+    },
+    {
+      "id": 6,
+      "name": "Eibar"
+    },
+    {
+      "id": 7,
+      "name": "Espanol"
+    },
+    {
+      "id": 8,
+      "name": "Granada"
+    },
+    {
+      "id": 9,
+      "name": "La Coruna"
+    },
+    {
+      "id": 10,
+      "name": "Las Palmas"
+    },
+    {
+      "id": 11,
+      "name": "Leganes"
+    },
+    {
+      "id": 12,
+      "name": "Malaga"
+    },
+    {
+      "id": 13,
+      "name": "Osasuna"
+    },
+    {
+      "id": 14,
+      "name": "Real Madrid"
+    },
+    {
+      "id": 15,
+      "name": "Sevilla"
+    },
+    {
+      "id": 16,
+      "name": "Sociedad"
+    },
+    {
+      "id": 17,
+      "name": "Sp Gijon"
+    },
+    {
+      "id": 18,
+      "name": "Valencia"
+    },
+    {
+      "id": 19,
+      "name": "Villarreal"
+    }
+  ]
+}
