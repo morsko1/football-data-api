@@ -2,31 +2,36 @@
   {
     "id": 0,
     "name": "Germany Bundesliga",
-    "league": "germany/bundes-liga/",
-    "season": "2016-2017"
+    "season": "2016-2017",
+    "country": "germany",
+    "league": "bundes-liga"
   },
   {
     "id": 1,
     "name": "England Premier League",
-    "league": "england/premier-league/",
-    "season": "2016-2017"
+    "season": "2016-2017",
+    "country": "england",
+    "league": "premier-league"
   },
   {
     "id": 2,
     "name": "France League One",
-    "league": "france/league-one/",
-    "season": "2016-2017"
+    "season": "2016-2017",
+    "country": "france",
+    "league": "league-one"
   },
   {
     "id": 3,
     "name": "Italy Serie A",
-    "league": "italy/serie-a/",
-    "season": "2016-2017"
+    "season": "2016-2017",
+    "country": "italy",
+    "league": "serie-a"
   },
   {
     "id": 4,
     "name": "Spain Primera",
-    "league": "spain/primera/",
-    "season": "2016-2017"
+    "season": "2016-2017",
+    "country": "spain",
+    "league": "primera"
   }
 ]

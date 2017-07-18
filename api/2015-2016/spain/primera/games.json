@@ -1,7 +1,8 @@
 {
   "id": 4,
-  "name": "Spain Primera",
-  "league": "spain/primera/",
+  "season": "2015-2016",
+  "country": "spain",
+  "league": "primera",
   "games": [
     {
       "id": 0,

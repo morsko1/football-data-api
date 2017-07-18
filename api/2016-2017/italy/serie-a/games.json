@@ -1,7 +1,8 @@
 {
   "id": 3,
-  "name": "Italy Serie A",
-  "league": "italy/serie-a/",
+  "season": "2016-2017",
+  "country": "italy",
+  "league": "serie-a",
   "games": [
     {
       "id": 0,

@@ -1,7 +1,8 @@
 {
   "id": 2,
-  "name": "France League One",
-  "league": "france/league-one/",
+  "season": "2016-2017",
+  "country": "france",
+  "league": "league-one",
   "standings": [
     {
       "id": 11,

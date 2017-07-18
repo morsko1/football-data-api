@@ -1,7 +1,8 @@
 {
   "id": 2,
-  "name": "France League One",
-  "league": "france/league-one/",
+  "season": "2015-2016",
+  "country": "france",
+  "league": "league-one",
   "games": [
     {
       "id": 0,
