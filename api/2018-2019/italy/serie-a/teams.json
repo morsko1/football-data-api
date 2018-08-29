@@ -1,0 +1,81 @@
+{
+  "id": 3,
+  "name": "Italy Serie A",
+  "season": "2018-2019",
+  "country": "italy",
+  "league": "serie-a",
+  "teams": [
+    {
+      "id": 0,
+      "name": "Atalanta"
+    },
+    {
+      "id": 1,
+      "name": "Bologna"
+    },
+    {
+      "id": 2,
+      "name": "Cagliari"
+    },
+    {
+      "id": 3,
+      "name": "Chievo"
+    },
+    {
+      "id": 4,
+      "name": "Empoli"
+    },
+    {
+      "id": 5,
+      "name": "Fiorentina"
+    },
+    {
+      "id": 6,
+      "name": "Frosinone"
+    },
+    {
+      "id": 7,
+      "name": "Genoa"
+    },
+    {
+      "id": 8,
+      "name": "Inter"
+    },
+    {
+      "id": 9,
+      "name": "Juventus"
+    },
+    {
+      "id": 10,
+      "name": "Lazio"
+    },
+    {
+      "id": 11,
+      "name": "Napoli"
+    },
+    {
+      "id": 12,
+      "name": "Parma"
+    },
+    {
+      "id": 13,
+      "name": "Roma"
+    },
+    {
+      "id": 14,
+      "name": "Sassuolo"
+    },
+    {
+      "id": 15,
+      "name": "Spal"
+    },
+    {
+      "id": 16,
+      "name": "Torino"
+    },
+    {
+      "id": 17,
+      "name": "Udinese"
+    }
+  ]
+}

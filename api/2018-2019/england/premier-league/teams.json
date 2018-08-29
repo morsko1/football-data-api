@@ -1,0 +1,89 @@
+{
+  "id": 1,
+  "name": "England Premier League",
+  "season": "2018-2019",
+  "country": "england",
+  "league": "premier-league",
+  "teams": [
+    {
+      "id": 0,
+      "name": "Arsenal"
+    },
+    {
+      "id": 1,
+      "name": "Bournemouth"
+    },
+    {
+      "id": 2,
+      "name": "Brighton"
+    },
+    {
+      "id": 3,
+      "name": "Burnley"
+    },
+    {
+      "id": 4,
+      "name": "Cardiff"
+    },
+    {
+      "id": 5,
+      "name": "Chelsea"
+    },
+    {
+      "id": 6,
+      "name": "Crystal Palace"
+    },
+    {
+      "id": 7,
+      "name": "Everton"
+    },
+    {
+      "id": 8,
+      "name": "Fulham"
+    },
+    {
+      "id": 9,
+      "name": "Huddersfield"
+    },
+    {
+      "id": 10,
+      "name": "Leicester"
+    },
+    {
+      "id": 11,
+      "name": "Liverpool"
+    },
+    {
+      "id": 12,
+      "name": "Man City"
+    },
+    {
+      "id": 13,
+      "name": "Man United"
+    },
+    {
+      "id": 14,
+      "name": "Newcastle"
+    },
+    {
+      "id": 15,
+      "name": "Southampton"
+    },
+    {
+      "id": 16,
+      "name": "Tottenham"
+    },
+    {
+      "id": 17,
+      "name": "Watford"
+    },
+    {
+      "id": 18,
+      "name": "West Ham"
+    },
+    {
+      "id": 19,
+      "name": "Wolves"
+    }
+  ]
+}

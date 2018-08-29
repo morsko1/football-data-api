@@ -1,0 +1,45 @@
+{
+  "id": 0,
+  "name": "Germany Bundesliga",
+  "season": "2018-2019",
+  "country": "germany",
+  "league": "bundes-liga",
+  "teams": [
+    {
+      "id": 0,
+      "name": "Bayern Munich"
+    },
+    {
+      "id": 1,
+      "name": "Dortmund"
+    },
+    {
+      "id": 2,
+      "name": "Fortuna Dusseldorf"
+    },
+    {
+      "id": 3,
+      "name": "Freiburg"
+    },
+    {
+      "id": 4,
+      "name": "Hertha"
+    },
+    {
+      "id": 5,
+      "name": "M'gladbach"
+    },
+    {
+      "id": 6,
+      "name": "Mainz"
+    },
+    {
+      "id": 7,
+      "name": "Werder Bremen"
+    },
+    {
+      "id": 8,
+      "name": "Wolfsburg"
+    }
+  ]
+}

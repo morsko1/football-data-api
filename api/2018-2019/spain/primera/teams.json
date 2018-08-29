@@ -1,0 +1,81 @@
+{
+  "id": 4,
+  "name": "Spain Primera",
+  "season": "2018-2019",
+  "country": "spain",
+  "league": "primera",
+  "teams": [
+    {
+      "id": 0,
+      "name": "Alaves"
+    },
+    {
+      "id": 1,
+      "name": "Ath Bilbao"
+    },
+    {
+      "id": 2,
+      "name": "Ath Madrid"
+    },
+    {
+      "id": 3,
+      "name": "Barcelona"
+    },
+    {
+      "id": 4,
+      "name": "Betis"
+    },
+    {
+      "id": 5,
+      "name": "Celta"
+    },
+    {
+      "id": 6,
+      "name": "Eibar"
+    },
+    {
+      "id": 7,
+      "name": "Espanol"
+    },
+    {
+      "id": 8,
+      "name": "Getafe"
+    },
+    {
+      "id": 9,
+      "name": "Girona"
+    },
+    {
+      "id": 10,
+      "name": "Leganes"
+    },
+    {
+      "id": 11,
+      "name": "Levante"
+    },
+    {
+      "id": 12,
+      "name": "Real Madrid"
+    },
+    {
+      "id": 13,
+      "name": "Sevilla"
+    },
+    {
+      "id": 14,
+      "name": "Valencia"
+    },
+    {
+      "id": 15,
+      "name": "Valladolid"
+    },
+    {
+      "id": 16,
+      "name": "Vallecano"
+    },
+    {
+      "id": 17,
+      "name": "Villarreal"
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "id": 0,
+  "name": "Germany Bundesliga",
+  "season": "2018-2019",
+  "country": "germany",
+  "league": "bundes-liga",
+  "games": [
+    {
+      "id": 0,
+      "date": "24/08/18",
+      "homeTeam": "Bayern Munich",
+      "awayTeam": "Hoffenheim",
+      "fullTimeHomeTeamGoals": 3,
+      "fullTimeAwayTeamGoals": 1,
+      "fullTimeResult": "H",
+      "halfTimeHomeTeamGoals": 1,
+      "halfTimeAwayTeamGoals": 0,
+      "halfTimeResult": "H"
+    },
+    {
+      "id": 1,
+      "date": "25/08/18",
+      "homeTeam": "Fortuna Dusseldorf",
+      "awayTeam": "Augsburg",
+      "fullTimeHomeTeamGoals": 1,
+      "fullTimeAwayTeamGoals": 2,
+      "fullTimeResult": "A",
+      "halfTimeHomeTeamGoals": 1,
+      "halfTimeAwayTeamGoals": 0,
+      "halfTimeResult": "H"
+    },
+    {
+      "id": 2,
+      "date": "25/08/18",
+      "homeTeam": "Freiburg",
+      "awayTeam": "Ein Frankfurt",
+      "fullTimeHomeTeamGoals": 0,
+      "fullTimeAwayTeamGoals": 2,
+      "fullTimeResult": "A",
+      "halfTimeHomeTeamGoals": 0,
+      "halfTimeAwayTeamGoals": 1,
+      "halfTimeResult": "A"
+    },
+    {
+      "id": 3,
+      "date": "25/08/18",
+      "homeTeam": "Hertha",
+      "awayTeam": "Nurnberg",
+      "fullTimeHomeTeamGoals": 1,
+      "fullTimeAwayTeamGoals": 0,
+      "fullTimeResult": "H",
+      "halfTimeHomeTeamGoals": 1,
+      "halfTimeAwayTeamGoals": 0,
+      "halfTimeResult": "H"
+    },
+    {
+      "id": 4,
+      "date": "25/08/18",
+      "homeTeam": "M'gladbach",
+      "awayTeam": "Leverkusen",
+      "fullTimeHomeTeamGoals": 2,
+      "fullTimeAwayTeamGoals": 0,
+      "fullTimeResult": "H",
+      "halfTimeHomeTeamGoals": 0,
+      "halfTimeAwayTeamGoals": 0,
+      "halfTimeResult": "D"
+    },
+    {
+      "id": 5,
+      "date": "25/08/18",
+      "homeTeam": "Werder Bremen",
+      "awayTeam": "Hannover",
+      "fullTimeHomeTeamGoals": 1,
+      "fullTimeAwayTeamGoals": 1,
+      "fullTimeResult": "D",
+      "halfTimeHomeTeamGoals": 0,
+      "halfTimeAwayTeamGoals": 0,
+      "halfTimeResult": "D"
+    },
+    {
+      "id": 6,
+      "date": "25/08/18",
+      "homeTeam": "Wolfsburg",
+      "awayTeam": "Schalke 04",
+      "fullTimeHomeTeamGoals": 2,
+      "fullTimeAwayTeamGoals": 1,
+      "fullTimeResult": "H",
+      "halfTimeHomeTeamGoals": 1,
+      "halfTimeAwayTeamGoals": 0,
+      "halfTimeResult": "H"
+    },
+    {
+      "id": 7,
+      "date": "26/08/18",
+      "homeTeam": "Dortmund",
+      "awayTeam": "RB Leipzig",
+      "fullTimeHomeTeamGoals": 4,
+      "fullTimeAwayTeamGoals": 1,
+      "fullTimeResult": "H",
+      "halfTimeHomeTeamGoals": 3,
+      "halfTimeAwayTeamGoals": 1,
+      "halfTimeResult": "H"
+    },
+    {
+      "id": 8,
+      "date": "26/08/18",
+      "homeTeam": "Mainz",
+      "awayTeam": "Stuttgart",
+      "fullTimeHomeTeamGoals": 1,
+      "fullTimeAwayTeamGoals": 0,
+      "fullTimeResult": "H",
+      "halfTimeHomeTeamGoals": 0,
+      "halfTimeAwayTeamGoals": 0,
+      "halfTimeResult": "D"
+    }
+  ]
+}

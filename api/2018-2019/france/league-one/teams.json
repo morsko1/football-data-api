@@ -1,0 +1,89 @@
+{
+  "id": 2,
+  "name": "France League One",
+  "season": "2018-2019",
+  "country": "france",
+  "league": "league-one",
+  "teams": [
+    {
+      "id": 0,
+      "name": "Amiens"
+    },
+    {
+      "id": 1,
+      "name": "Angers"
+    },
+    {
+      "id": 2,
+      "name": "Bordeaux"
+    },
+    {
+      "id": 3,
+      "name": "Caen"
+    },
+    {
+      "id": 4,
+      "name": "Dijon"
+    },
+    {
+      "id": 5,
+      "name": "Guingamp"
+    },
+    {
+      "id": 6,
+      "name": "Lille"
+    },
+    {
+      "id": 7,
+      "name": "Lyon"
+    },
+    {
+      "id": 8,
+      "name": "Marseille"
+    },
+    {
+      "id": 9,
+      "name": "Monaco"
+    },
+    {
+      "id": 10,
+      "name": "Montpellier"
+    },
+    {
+      "id": 11,
+      "name": "Nantes"
+    },
+    {
+      "id": 12,
+      "name": "Nice"
+    },
+    {
+      "id": 13,
+      "name": "Nimes"
+    },
+    {
+      "id": 14,
+      "name": "Paris SG"
+    },
+    {
+      "id": 15,
+      "name": "Reims"
+    },
+    {
+      "id": 16,
+      "name": "Rennes"
+    },
+    {
+      "id": 17,
+      "name": "St Etienne"
+    },
+    {
+      "id": 18,
+      "name": "Strasbourg"
+    },
+    {
+      "id": 19,
+      "name": "Toulouse"
+    }
+  ]
+}
