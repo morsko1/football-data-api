@@ -1,0 +1,89 @@
+{
+  "id": 1,
+  "name": "England Premier League",
+  "season": "2017-2018",
+  "country": "england",
+  "league": "premier-league",
+  "teams": [
+    {
+      "id": 0,
+      "name": "Arsenal"
+    },
+    {
+      "id": 1,
+      "name": "Bournemouth"
+    },
+    {
+      "id": 2,
+      "name": "Brighton"
+    },
+    {
+      "id": 3,
+      "name": "Burnley"
+    },
+    {
+      "id": 4,
+      "name": "Chelsea"
+    },
+    {
+      "id": 5,
+      "name": "Crystal Palace"
+    },
+    {
+      "id": 6,
+      "name": "Everton"
+    },
+    {
+      "id": 7,
+      "name": "Huddersfield"
+    },
+    {
+      "id": 8,
+      "name": "Leicester"
+    },
+    {
+      "id": 9,
+      "name": "Liverpool"
+    },
+    {
+      "id": 10,
+      "name": "Man City"
+    },
+    {
+      "id": 11,
+      "name": "Man United"
+    },
+    {
+      "id": 12,
+      "name": "Newcastle"
+    },
+    {
+      "id": 13,
+      "name": "Southampton"
+    },
+    {
+      "id": 14,
+      "name": "Stoke"
+    },
+    {
+      "id": 15,
+      "name": "Swansea"
+    },
+    {
+      "id": 16,
+      "name": "Tottenham"
+    },
+    {
+      "id": 17,
+      "name": "Watford"
+    },
+    {
+      "id": 18,
+      "name": "West Brom"
+    },
+    {
+      "id": 19,
+      "name": "West Ham"
+    }
+  ]
+}

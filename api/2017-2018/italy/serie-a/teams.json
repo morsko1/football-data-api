@@ -1,0 +1,89 @@
+{
+  "id": 3,
+  "name": "Italy Serie A",
+  "season": "2017-2018",
+  "country": "italy",
+  "league": "serie-a",
+  "teams": [
+    {
+      "id": 0,
+      "name": "Atalanta"
+    },
+    {
+      "id": 1,
+      "name": "Benevento"
+    },
+    {
+      "id": 2,
+      "name": "Bologna"
+    },
+    {
+      "id": 3,
+      "name": "Cagliari"
+    },
+    {
+      "id": 4,
+      "name": "Chievo"
+    },
+    {
+      "id": 5,
+      "name": "Crotone"
+    },
+    {
+      "id": 6,
+      "name": "Fiorentina"
+    },
+    {
+      "id": 7,
+      "name": "Genoa"
+    },
+    {
+      "id": 8,
+      "name": "Inter"
+    },
+    {
+      "id": 9,
+      "name": "Juventus"
+    },
+    {
+      "id": 10,
+      "name": "Lazio"
+    },
+    {
+      "id": 11,
+      "name": "Milan"
+    },
+    {
+      "id": 12,
+      "name": "Napoli"
+    },
+    {
+      "id": 13,
+      "name": "Roma"
+    },
+    {
+      "id": 14,
+      "name": "Sampdoria"
+    },
+    {
+      "id": 15,
+      "name": "Sassuolo"
+    },
+    {
+      "id": 16,
+      "name": "Spal"
+    },
+    {
+      "id": 17,
+      "name": "Torino"
+    },
+    {
+      "id": 18,
+      "name": "Udinese"
+    },
+    {
+      "id": 19,
+      "name": "Verona"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": 2,
+  "name": "France League One",
+  "season": "2017-2018",
+  "country": "france",
+  "league": "league-one",
+  "teams": [
+    {
+      "id": 0,
+      "name": "Amiens"
+    },
+    {
+      "id": 1,
+      "name": "Angers"
+    },
+    {
+      "id": 2,
+      "name": "Bordeaux"
+    },
+    {
+      "id": 3,
+      "name": "Caen"
+    },
+    {
+      "id": 4,
+      "name": "Dijon"
+    },
+    {
+      "id": 5,
+      "name": "Guingamp"
+    },
+    {
+      "id": 6,
+      "name": "Lille"
+    },
+    {
+      "id": 7,
+      "name": "Lyon"
+    },
+    {
+      "id": 8,
+      "name": "Marseille"
+    },
+    {
+      "id": 9,
+      "name": "Metz"
+    },
+    {
+      "id": 10,
+      "name": "Monaco"
+    },
+    {
+      "id": 11,
+      "name": "Montpellier"
+    },
+    {
+      "id": 12,
+      "name": "Nantes"
+    },
+    {
+      "id": 13,
+      "name": "Nice"
+    },
+    {
+      "id": 14,
+      "name": "Paris SG"
+    },
+    {
+      "id": 15,
+      "name": "Rennes"
+    },
+    {
+      "id": 16,
+      "name": "St Etienne"
+    },
+    {
+      "id": 17,
+      "name": "Strasbourg"
+    },
+    {
+      "id": 18,
+      "name": "Toulouse"
+    },
+    {
+      "id": 19,
+      "name": "Troyes"
+    }
+  ]
+}

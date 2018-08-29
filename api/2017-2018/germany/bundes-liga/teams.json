@@ -1,0 +1,81 @@
+{
+  "id": 0,
+  "name": "Germany Bundesliga",
+  "season": "2017-2018",
+  "country": "germany",
+  "league": "bundes-liga",
+  "teams": [
+    {
+      "id": 0,
+      "name": "Augsburg"
+    },
+    {
+      "id": 1,
+      "name": "Bayern Munich"
+    },
+    {
+      "id": 2,
+      "name": "Dortmund"
+    },
+    {
+      "id": 3,
+      "name": "Ein Frankfurt"
+    },
+    {
+      "id": 4,
+      "name": "FC Koln"
+    },
+    {
+      "id": 5,
+      "name": "Freiburg"
+    },
+    {
+      "id": 6,
+      "name": "Hamburg"
+    },
+    {
+      "id": 7,
+      "name": "Hannover"
+    },
+    {
+      "id": 8,
+      "name": "Hertha"
+    },
+    {
+      "id": 9,
+      "name": "Hoffenheim"
+    },
+    {
+      "id": 10,
+      "name": "Leverkusen"
+    },
+    {
+      "id": 11,
+      "name": "M'gladbach"
+    },
+    {
+      "id": 12,
+      "name": "Mainz"
+    },
+    {
+      "id": 13,
+      "name": "RB Leipzig"
+    },
+    {
+      "id": 14,
+      "name": "Schalke 04"
+    },
+    {
+      "id": 15,
+      "name": "Stuttgart"
+    },
+    {
+      "id": 16,
+      "name": "Werder Bremen"
+    },
+    {
+      "id": 17,
+      "name": "Wolfsburg"
+    }
+  ]
+}

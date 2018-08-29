@@ -1,0 +1,89 @@
+{
+  "id": 4,
+  "name": "Spain Primera",
+  "season": "2017-2018",
+  "country": "spain",
+  "league": "primera",
+  "teams": [
+    {
+      "id": 0,
+      "name": "Alaves"
+    },
+    {
+      "id": 1,
+      "name": "Ath Bilbao"
+    },
+    {
+      "id": 2,
+      "name": "Ath Madrid"
+    },
+    {
+      "id": 3,
+      "name": "Barcelona"
+    },
+    {
+      "id": 4,
+      "name": "Betis"
+    },
+    {
+      "id": 5,
+      "name": "Celta"
+    },
+    {
+      "id": 6,
+      "name": "Eibar"
+    },
+    {
+      "id": 7,
+      "name": "Espanol"
+    },
+    {
+      "id": 8,
+      "name": "Getafe"
+    },
+    {
+      "id": 9,
+      "name": "Girona"
+    },
+    {
+      "id": 10,
+      "name": "La Coruna"
+    },
+    {
+      "id": 11,
+      "name": "Las Palmas"
+    },
+    {
+      "id": 12,
+      "name": "Leganes"
+    },
+    {
+      "id": 13,
+      "name": "Levante"
+    },
+    {
+      "id": 14,
+      "name": "Malaga"
+    },
+    {
+      "id": 15,
+      "name": "Real Madrid"
+    },
+    {
+      "id": 16,
+      "name": "Sevilla"
+    },
+    {
+      "id": 17,
+      "name": "Sociedad"
+    },
+    {
+      "id": 18,
+      "name": "Valencia"
+    },
+    {
+      "id": 19,
+      "name": "Villarreal"
+    }
+  ]
+}
