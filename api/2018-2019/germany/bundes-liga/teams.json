@@ -7,38 +7,74 @@
   "teams": [
     {
       "id": 0,
-      "name": "Bayern Munich"
+      "name": "Augsburg"
     },
     {
       "id": 1,
-      "name": "Dortmund"
+      "name": "Bayern Munich"
     },
     {
       "id": 2,
-      "name": "Fortuna Dusseldorf"
+      "name": "Dortmund"
     },
     {
       "id": 3,
-      "name": "Freiburg"
+      "name": "Ein Frankfurt"
     },
     {
       "id": 4,
-      "name": "Hertha"
+      "name": "Fortuna Dusseldorf"
     },
     {
       "id": 5,
-      "name": "M'gladbach"
+      "name": "Freiburg"
     },
     {
       "id": 6,
-      "name": "Mainz"
+      "name": "Hannover"
     },
     {
       "id": 7,
-      "name": "Werder Bremen"
+      "name": "Hertha"
     },
     {
       "id": 8,
+      "name": "Hoffenheim"
+    },
+    {
+      "id": 9,
+      "name": "Leverkusen"
+    },
+    {
+      "id": 10,
+      "name": "M'gladbach"
+    },
+    {
+      "id": 11,
+      "name": "Mainz"
+    },
+    {
+      "id": 12,
+      "name": "Nurnberg"
+    },
+    {
+      "id": 13,
+      "name": "RB Leipzig"
+    },
+    {
+      "id": 14,
+      "name": "Schalke 04"
+    },
+    {
+      "id": 15,
+      "name": "Stuttgart"
+    },
+    {
+      "id": 16,
+      "name": "Werder Bremen"
+    },
+    {
+      "id": 17,
       "name": "Wolfsburg"
     }
   ]
